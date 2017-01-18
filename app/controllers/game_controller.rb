@@ -2,11 +2,12 @@ class GameController < ApplicationController
 
   def index
     @user = current_user
-    if current_user
-      redirect_to new_game_path
-    else
-      render 'index'
-    end
+    @cities = City.all
+    # if current_user
+    #   redirect_to new_game_path
+    # else
+    #   render 'index'
+    # end
   end
 
   def new

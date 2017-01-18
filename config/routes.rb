@@ -7,9 +7,8 @@ Rails.application.routes.draw do
 
   root 'game#index'
 
-  resources :game, only:[:index, :new, :show] do
-    resources :adventure, only:[:index]
-  end
+  resources :game, only:[:index, :new, :show, :create]
+  resources :adventure
   resources :story, only:[:show]
 
 end

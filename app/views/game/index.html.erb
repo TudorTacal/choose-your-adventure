@@ -3,3 +3,16 @@
   <%= link_to 'Sign up',  new_user_registration_path  %><br>
   <%= link_to 'Sign in', new_user_session_path %>
 <% end %>
+
+<form action=adventure_index_path>
+  <h3>Choose city</h3>
+    <select>
+      <option>Choose city</option>
+      <% @cities.each do |city| %>
+        <option value=<%= city.id %>><%= city.name %></option>
+        <%= link_to 'Submit', adventure_index_path({ city_id: city.id}) %>
+      <% end %>
+    </select>
+
+    <input type="submit" value="Submit">
+</form>
