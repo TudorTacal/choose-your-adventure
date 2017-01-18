@@ -7,3 +7,8 @@ def sign_up(name, email, password)
   fill_in 'Password confirmation', with: password
   click_button 'Sign up'
 end
+
+def select_city_london
+  select 'London', from: 'cities_from_model'
+  click_button "Submit"
+end
