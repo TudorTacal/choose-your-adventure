@@ -71,8 +71,7 @@ One is DARK ANNIE, the other Eliza Cooper. Both are residents of Crossingham's L
 
 But the women say they are fighting over soap, not a man.
 
-Dark Annie throws a penny at Eliza, and says
-"Think yourself lucky I did not do more", before stalking off with a black eye.
+Dark Annie throws a penny at Eliza, and says "Think yourself lucky I did not do more", before stalking off with a black eye.
 
 In the excitement, you lose sight of Dark Annie, but a witness to the fight says she was heading to THE OLD TRUMAN BREWERY.
 
@@ -150,13 +149,15 @@ DEAD!
 ```
 HENRIQUES STREET (FORMERLY DUTFIELD'S YARD)
 
-You arrive just in time to see Long Liz grappling with a cloaked man in the shadows. You yell out and the man lets Long Liz go, and comes towards you, brandishing a knife.
+You arrive just in time to see Long Liz grappling with a cloaked man in the shadows. You yell out. The man lets Long Liz go, and comes towards you, brandishing a knife.
 
-You scream as loudly as possibly, attracting the attention of the patrons of the nearby International Worker's Educational Club, a place frequented by Russian, Jewish, British, French, Italian, Czech, and Polish radicals.
+You scream as loudly as possible, attracting the attention of the patrons of the nearby International Worker's Educational Club, a place frequented by Russian, Jewish, British, French, Italian, Czech and Polish radicals.
 
 As the revellers begin to spill out of the club to investigate the commotion you have created, the man slips down a dark alleyway.
 
-You and Long Liz are both safe, but you are none the wiser about the identity of the Ripper. That was a...
+You and Long Liz are both safe, but you are none the wiser about the identity of the Ripper.
+
+That was a...
 
 CLOSE CALL!
 ```
