@@ -53,7 +53,7 @@ Follow your gut. Just don't get them spilled.
 ```
 BRICK LANE
 
-There’s no sign of Mary, so you grab a pint at The Frying Pan Public House on the corner of Brick Lane and Thrawl Street, and chat to fellow customers. There is a growing sense of foreboding amongst the drunken patrons. Women keep disappearing and suffering attacks, the streets are becoming more dangerous each night.
+There’s no sign of Polly, so you grab a pint at The Frying Pan Public House on the corner of Brick Lane and Thrawl Street, and chat to fellow customers. There is a growing sense of foreboding amongst the drunken patrons. Women keep disappearing and suffering attacks, the streets are becoming more dangerous each night.
 
 East London is a busy place, full of commercial and criminal activity, with many arriving from the nearby docks and looking for ways to make a living whatever way they can. But even with so many coming and going, similar reports of a dark figure creeping along the streets keep cropping up as the beer, whisky and rum flow into dirty glasses and down desperate throats.
 
